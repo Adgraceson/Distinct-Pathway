@@ -1,0 +1,6 @@
+{
+  "name": "Distinct Pathway Real Estates",
+  "description": "Find secure lands, beautiful homes, rental properties, and rewarding real estate investment opportunities in Ghana with Distinct Pathway Real Estates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
